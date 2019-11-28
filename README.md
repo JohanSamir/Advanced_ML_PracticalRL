@@ -1,0 +1,2 @@
+# Advanced_ML_PracticalRL
+/home/johan/Downloads/Coursera-master/Coursera/Specialization_Advanced_Machine_Learning_Higher_School_of_Economics/Course4_Practical Reinforcement Learning/week1_intro/gym_interface.ipynb
